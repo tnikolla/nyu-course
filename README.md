@@ -1,2 +1,7 @@
-# nyu deep learning course
-The github companion of the NYU Deep Learning course from 2021 from Yann LeCun &amp; Alfredo Canziani - https://atcold.github.io/NYU-DLSP21/.
+# NYU Deep Learning Course
+
+My companion repo for the NYU Deep Learning course (2021) by
+[Yann LeCun & Alfredo Canziani](https://atcold.github.io/NYU-DLSP21/).
+
+## Notes
+*(coming soon)*
